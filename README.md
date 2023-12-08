@@ -24,7 +24,5 @@ A script written in Python to get your Spotify stats :)
 Create a Spotify App on the Spotify Developer Dashboard.
 Obtain your `CLIENT_ID` and `CLIENT_SECRET.`
 Set the `REDIRECT_URI` to http://localhost:5173/callback/ in your Spotify App settings.
-Update stats.py:
-
-Replace the placeholders in the get_spotify_stats function with your `CLIENT_ID` and `CLIENT_SECRET`.
-4. You can now run `python stats.py` to get the stats.
+4. Update stats.py: Replace the placeholders in the get_spotify_stats function with your `CLIENT_ID` and `CLIENT_SECRET`.
+5. You can now run `python stats.py` to get the stats.
