@@ -1,6 +1,8 @@
 # spotify-stats-python
 A script written in Python to get your Spotify stats :)
 
+![image](image.png)
+
 ## Features
 
 - Display the currently playing song at the top with a distinctive color.
